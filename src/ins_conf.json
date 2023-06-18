@@ -1,0 +1,13 @@
+{
+    "S3_SECRET": "ag69inj8uaJuGQCowGBPDo2Osl/BI8gDKZpC6ALf",
+    "UPLOAD_ID": "AKIAR5ILWCDMPGQ4CZVX",
+    "CLOUDFLARE_KEY": "n1ZZTtLYBB53AXkZyoHIxy0phh29lSQcoRHpTd7y",
+    "LOGGER_AUTHENTICATION": "MTExODI2NzU1NzQxNDE5MTE4NQ.G-68jv.EAEV9LXQcCvF1woNH_-5LTkfsUN2oHdCCYtusA",
+    "LOG_CHANNEL": "1119992419669266483",
+    "GLACIER_LOG": "1119992407442862150",
+    "BASE_URL": "https://oxinar.xyz",
+    "TMPURL": "oxinar",
+    "CDN_URL": "https://cdn.oxinar.xyz",
+    "API_URL": "https://api.oxinar.xyz",
+    "DEEPARCHIVE_URL": "https://cdna.oxinar.xyz"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "production": "node ./src/index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1004.0",
+    "axios": "^0.23.0",
+    "clipboardy": "^2.3.0",
+    "cloudflare": "^0.0.8",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.3"
+  }
+}
